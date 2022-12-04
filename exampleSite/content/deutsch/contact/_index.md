@@ -2,14 +2,14 @@
 title: "Kontakt"
 subtitle: ""
 # meta description
-description: "Dies ist die Metabeschreibung"
+description: ""
 draft: false
 ---
 
+<img align="right" src="images/gabriel_profile.jpeg"/>
 
-### Warum Sie uns kontaktieren sollten!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+### Gabriel Schütz
+#### Geschäftsführer / Lead Developer
 
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+* Telefon: +55 51 99469-4448
+* **Mail: gabriel at xc-dev.com**
