@@ -5,13 +5,13 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Blog"
-url = "blog/"
+name = "Outsourcing"
+url = "outsourcing/"
 weight = 2
 
 [[main]]
-name = "Pricing"
-url = "pricing/"
+name = "Careers"
+url = "careers/"
 weight = 3
 
 [[main]]
@@ -39,17 +39,17 @@ url = "pricing/"
 
 
 # footer menu middle
-[[footer_middle]]
-name = "Pricing"
-url = "pricing/"
+#[[footer_middle]]
+#name = "Pricing"
+#url = "pricing/"
 
-[[footer_middle]]
-name = "Platform"
-url = "#"
-
-[[footer_middle]]
-name = "Features"
-url = "#"
+#[[footer_middle]]
+#name = "Platform"
+#url = "#"
+#
+#[[footer_middle]]
+#name = "Features"
+#url = "#"
 
 # footer menu right
 [[footer_right]]

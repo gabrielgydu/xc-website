@@ -2,7 +2,7 @@
 logo = "images/logo.png"
 logo_width = "200px"
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
+description = "XC Development outsourcing"
 author = "Themefisher"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact form action
@@ -19,7 +19,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation buttons
 [navigation_button]
 enable = true
-label = "Get Started"
+label = "Contact us"
 link = "contact"
 
 # cookies
@@ -28,7 +28,7 @@ enable = false
 expire_days = 2
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
-  
+
 ############################# social site ########################
 [[social]]
 title = "facebook"
