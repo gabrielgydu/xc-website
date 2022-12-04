@@ -1,9 +1,9 @@
 ############################# English ############################
 [en]
-languageName = "En"
+languageName = "English"
 title = "XC Development"
 contentDir = "content/english" # content/english
-weight = 1
+weight = 2
 ########### footer content ##########
 footer_menu_left = "Company"
 footer_menu_middle = "Services"
@@ -16,10 +16,10 @@ copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethu
 
 ############################# Deutsch ############################
 [de]
-languageName = "De"
+languageName = "Deutsch"
 title = "XC Development"
 contentDir = "content/deutsch" # content/german
-weight = 2
+weight = 1
 ########### footer content ##########
 footer_menu_left = "Firma"
 footer_menu_middle = "Dienstleistungen"

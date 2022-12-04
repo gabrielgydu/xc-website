@@ -1,8 +1,8 @@
 ---
-title: "Frequently Asked Questions"
+title: "Häufig gestellte Fragen"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "Dies ist die Metabeschreibung"
 draft: false
 ---
 

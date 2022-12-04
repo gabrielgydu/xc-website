@@ -1,79 +1,79 @@
 ---
-title: "Adversus is a web-based dialer and practical CRM solution"
+title: "Dies ist eine deutsche Testseite"
 date: 2020-04-18T10:07:21+06:00
 # post image
 image: "images/blog/post-1.jpg"
 # post type (regular/featured)
 type: "featured"
 # meta description
-description: "This is meta description"
+description: "Dies ist die Metabeschreibung"
 # post draft
 draft: false
 ---
 
 
-#### Heading example
+#### Exemplarische Überschrift
 
-Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.
+Hier ist ein Beispiel für eine Überschrift. Sie können diese Überschrift verwenden, indem Sie den Markdownify-Regeln folgen. Zum Beispiel: Verwenden Sie `#` für Überschrift 1 und `######` für Überschrift 6.
 
-# Heading 1 
+# Überschrift 1 
 <br>
 
-## Heading 2 
-
-<br>
-
-### Heading 3 
+## Überschrift 2 
 
 <br>
 
-#### Heading 4 
+### Überschrift 3 
 
 <br>
 
-##### Heading 5 
+#### Überschrift 4 
 
 <br>
 
-###### Heading 6
+##### Überschrift 5 
+
+<br>
+
+###### Überschrift 6
 
 
 <hr>
 
-##### Emphasis
+##### Hervorhebung
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+Hervorhebung, auch kursiv genannt, mit *Asterisken* oder _Unterstrichen_.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+Starke Betonung, auch fett, mit **Asterisken** oder __Unterstrichen__.
 
-Combined emphasis with **asterisks and _underscores_**.
+Kombinierte Hervorhebung mit **Rasterzeichen und _Unterstrichen_**.
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+Durchstreichen verwendet zwei Tilden. ~~Durchstreichen~~.
 
 <hr>
 
 ##### Link
-[I'm an inline-style link](https://www.google.com)
+[Ich bin ein Link im Inline-Stil](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Ich bin ein Link im Inline-Stil mit Titel](https://www.google.com "Google's Homepage")
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+[Ich bin ein Link im Referenzstil][Beliebiger Referenztext ohne Berücksichtigung der Groß-/Kleinschreibung]
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[Ich bin ein relativer Verweis auf eine Repository-Datei](../blob/master/LICENSE)
 
-[You can use numbers for reference-style link definitions][1]
+[Sie können Zahlen für referenzähnliche Link-Definitionen verwenden][1]
 
-Or leave it empty and use the [link text itself].
+Oder lassen Sie es leer und verwenden Sie den [Linktext selbst].
 
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
+URLs und URLs in spitzen Klammern werden automatisch in Links umgewandelt.
+http://www.example.com oder <http://www.example.com> und manchmal
+example.com (aber nicht auf Github, zum Beispiel).
 
-Some text to show that the reference links can follow later.
+Etwas Text, um zu zeigen, dass die Referenzlinks später folgen können.
 
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
+[beliebiger Referenztext ohne Berücksichtigung der Groß- und Kleinschreibung]: https://www.themefisher.com
 [1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
+[Linktext selbst]: https://www.getjekyllthemes.com
 
 <hr>
 
@@ -83,29 +83,29 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime 
 
 <hr>
 
-##### Ordered List
+##### Geordnete Liste
 
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-<hr>
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
+1. Listeneintrag
+2. Listeneintrag
+3. Listeneintrag
+4. Listeneintrag
+5. Listeneintrag
 
 <hr>
 
-##### Code and Syntax Highlighting
+##### Ungordnete Liste
 
-Inline `code` has `back-ticks around` it.
+* Listeneintrag
+* Listeneintrag
+* Listeneintrag
+* Listeneintrag
+* Listeneintrag
+
+<hr>
+
+##### Code und Syntax Highlighting
+
+Inline `code` ist von `backticks` umgeben.
 
 ```javascript
 var s = "JavaScript syntax highlighting";
@@ -119,49 +119,49 @@ print s
 
 <hr>
 
-##### Blockquote
+##### Zitat
 
-> This is a blockquote example.
+> Dies ist ein Beispiel Zitat.
 
 <hr>
 
 ##### Inline HTML
 
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
+Sie können auch rohes HTML in Ihrem Markdown verwenden, und es wird meistens ziemlich gut funktionieren.
 
 <dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
+  <dt>Definitionsliste</dt>
+  <dd>Lorem Ipsum</dd>
 
   <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+  <dd>Funktioniert *nicht* **sehr** gut. Verwenden Sie HTML <em>Tags</em>.</dd>
 </dl>
 
 
 <hr>
 
-##### Tables
+##### Tabellen
 
-Colons can be used to align columns.
+Doppelpunkte können verwendet werden, um Spalten auszurichten.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Tables            | Are                 | Cool  |
+| ----------------- |:-------------------:| -----:|
+| spalte 3 ist      | rechts ausgerichtet | $1600 |
+| spalte 2 ist      | centered            |   $12 |
+| zebrastreifen     | sind nett           |    $1 |
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
+Jede Kopfzelle muss durch mindestens 3 Bindestriche voneinander getrennt sein.
+Die äußeren Pipes (|) sind optional, und Sie müssen nicht dafür sorgen, dass das 
+rohen Markdown nicht aufhübschen. Sie können auch Inline-Markdown verwenden.
 
-Markdown | Less | Pretty
+Markdown | Weniger | Schön
 --- | --- | ---
-*Still* | `renders` | **nicely**
+*trotzdem* | `schön` | **dargestellt**
 1 | 2 | 3
 
 <hr>
 
-##### Image
+##### Bilder
 
 ![image](../../images/blog/post-6.jpg)
 

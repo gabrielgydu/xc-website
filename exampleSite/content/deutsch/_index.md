@@ -99,7 +99,7 @@ service:
 ################### Screenshot ########################
 screenshot:
   enable : true
-  title : "Experience the best <br> workflow with us"
+  title : "Erleben Sie den besten <br> Workflow mit uns"
   image : "images/screenshot.svg"
 
 
@@ -107,11 +107,11 @@ screenshot:
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Ready to get started?"
+  title : "Bereit für den Einstieg?"
   image : "images/cta.svg"
   content : ""
   button:
     enable : true
-    label : "Contact Us"
+    label : "Schreiben Sie uns"
     link : "contact/"
 ---
